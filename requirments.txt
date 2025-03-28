@@ -1,12 +1,13 @@
- ultralytics 
- opencv-python 
- matplotlib
- PyMuPDF
- faiss-cpu
- langchain-openai
- langchain-community 
- faiss-cpu
- langchain-cohere
- rank_bm25
- nltk
- google-genaipython-dotenv==1.0.1
+ultralytics 
+opencv-python 
+matplotlib
+PyMuPDF
+faiss-cpu
+langchain-openai
+langchain-community 
+faiss-cpu
+langchain-cohere
+rank_bm25
+nltk
+google-genai
+python-dotenv==1.0.1
