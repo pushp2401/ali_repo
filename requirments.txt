@@ -11,4 +11,4 @@ rank_bm25==0.2.2
 nltk==3.8.1
 Pillow==10.2.0
 google-generativeai==0.3.2
-python-dotenv
+python-dotenv==1.0.1
